@@ -13,7 +13,7 @@ This script automates the installation and setup of the **t3rn Executor** on Lin
 
 1.1 Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/t3rn-executor.git
+   git clone https://github.com/getcakedieyoungx/t3rn-executor.git
    cd t3rn-executor
    ```
 
